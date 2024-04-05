@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;  /*убираем маркера*/
+}
+button {
+  cursor: pointer;
+}
+
+li button {
+  margin-left: 15px;
+  background-color: unset;
+  border: 0;
+}
